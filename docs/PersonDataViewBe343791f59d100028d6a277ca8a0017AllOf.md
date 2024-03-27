@@ -1,0 +1,15 @@
+
+
+# PersonDataViewBe343791f59d100028d6a277ca8a0017AllOf
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**phone** | **String** | Returns the primary public work phone number for the worker. |  [optional] |
+|**email** | **String** | Returns the public primary work email address for the worker. |  [optional] |
+|**id** | **String** | Id of the instance |  [optional] |
+
+
+
